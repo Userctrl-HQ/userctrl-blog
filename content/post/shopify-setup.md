@@ -74,7 +74,13 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 
 ==At this step, under the layout, online merchants can choose them.liquid.==
 
-[theme](/theme.jpg  "theme")
+![theme](/theme.jpg  "theme")
+
+**Step 5**: Find </head> tag
+
+==After scrolling down the page, you can find out the tag in </head>.==
+
+![theme](/tag.jpg  "tag")
 
 
 
