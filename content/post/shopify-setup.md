@@ -37,7 +37,7 @@ Userctrl aims to fill in those gaps.
 
 **What is userctrl?**
 
-![userctrl landing page](static/userctrlcrop.png  "userctrl")
+![userctrl landing page](/userctrlcrop.png  "userctrl")
 
 Userctrl monitors user behaviors on your store and thus allows you to tweak the offers/discounts that are displayed to users via an unobtrusive popup so you may get a better Conversion rate.
 
