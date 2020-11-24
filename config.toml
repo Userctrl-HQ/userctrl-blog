@@ -1,9 +1,9 @@
 theme = "black-and-light"
 relativeURLs = true
 baseURL = "/"
-title = "Hugo Themes"
+title = "Automated Marketing for Shopify Stores"
 author = "Steve Francia"
-copyright = "Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved."
+copyright = "Copyright © 2020, Userctrl HQ; all rights reserved."
 paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -21,6 +21,12 @@ enableInlineShortcodes = true
     name = "About"
     url = "/about/"
     weight = 10
+  [[menu.main]]
+    identifier = "userctrl.com"
+    name = "userctrl.com"
+    url = "https://www.userctrl.com"
+    weight = 10
+
 
 [taxonomies]
 category = "categories"
