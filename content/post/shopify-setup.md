@@ -17,6 +17,10 @@ This might sound simple and straightforward BUT, it's not. Shopify, the awesome 
 
 Userctrl aims to fill in those gaps.
 
+
+***
+
+
 * What is userctrl?
 * Why should you use userctrl with your Shopify store?
 * How to install userctrl in your Shopify store?
