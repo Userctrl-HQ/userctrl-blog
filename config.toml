@@ -17,11 +17,6 @@ enableInlineShortcodes = true
     url = "/"
     weight = 1
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
-  [[menu.main]]
     identifier = "userctrl.com"
     name = "userctrl.com"
     url = "https://www.userctrl.com"
