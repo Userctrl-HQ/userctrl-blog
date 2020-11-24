@@ -33,9 +33,14 @@ Userctrl aims to fill in those gaps.
 
 **What is userctrl?**
 
-Userctrl monitors user behaviors on your store and thus allows you to tweak the offers/discounts that are displayed to users so you may get a better Conversion rate.
+Userctrl monitors user behaviors on your store and thus allows you to tweak the offers/discounts that are displayed to users via an unobtrusive popup so you may get a better Conversion rate.
+
+
+**Why should you use userctrl with your Shopify Store?**
+
+Tracking visitors and converting them into customers is one of the most important aspects of e-commerce. Not all traffic is created equal, and to make any progress you need to know who your customers are. With Userctrl, tracking your Shopify store visitors has never been so easy.
 
 With userctrl, you will know your customer’s data and personalize the way you entice them into becoming a paying customer. 
 
-You’ll be able to track what your target audience is doing on your Shopify store and what each of those visitors are interested in. The actionable analytics will help you make informed decisions and boost conversions for your online Shopify store.
+You’ll be able to track what your target audience is doing on your Shopify store and what each of those visitors are interested in. The actionable analytics will help you make informed decisions and boost conversions for your Shopify store.
 
