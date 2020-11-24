@@ -54,3 +54,14 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 
 **How to install Userctrl in your Shopify store**
 
+**Step 1**: Go to your online store
+ 
+== On the Shopify dashboard, online seller tab on Online Store.==
+
+**Step 2**:  Click Themes
+
+==Continue by choosing the Themes button.==
+
+![theme](/themes.jpg  "them")
+
+
