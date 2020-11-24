@@ -11,26 +11,10 @@ tags = [
 ]
 +++
 
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
----
+#How to Increase your Shopify Store Conversions with userctrl
 
-## YouTube Privacy Enhanced Shortcode
+Online sellers can have essential numbers like drop-off percentages from their analytics tools. However, what is the reason why the user makes a sure way? Where do they have the matter that makes them bouncing on the page? Why are they not converting?
 
-{{< youtube ZJthWmvUzzc >}}
+Hotjar app is the solution for any online sellers to collect the data and insights from customers like any traditional web analytics tools; for example, Google Analytics. In addition, this tool also supports the users to combine an industry-leading and easy-to-use service. It is also considered as the feedback tool to understand what their customers care about and what they are saying about your stores to improve their shopping experiences effectively.
 
-<br>
-
----
-
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+This object Hotjar Shopify tool: How to increase your Shopify store conversions will help you increase conversions as well as customer’s satisfaction by using Hotjar for your Shopify page so that it is easy to boost the sales. With this free Hotjar Shopify tool, Shopify store owners have the best Shopify apps to deal with about 100 shipments a day.
