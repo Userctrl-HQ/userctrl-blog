@@ -65,8 +65,16 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 ![theme](/themes.jpg  "theme")
 
 **Step 3**:  Choose to edit code
+
 ==On the top right, let’s tab on Actions button and then click Edit Code.==
 
-![theme](/code.jpg  "code)
+![theme](/code.jpg  "code")
+
+**Step 4**:  Go to theme.liquid
+
+==At this step, under the layout, online merchants can choose them.liquid.==
+
+[theme](/theme.jpg  "theme")
+
 
 
