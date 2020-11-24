@@ -72,13 +72,13 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 
 **Step 4**:  Go to theme.liquid
 
-==At this step, under the layout, online merchants can choose them.liquid.==
+==At this step, under the layout, online merchants can choose theme.liquid.==
 
 ![theme](/theme.jpg  "theme")
 
 **Step 5**: Find </head> tag
 
-==After scrolling down the page, you can find out the tag in '</head>'.==
+==After scrolling down the page, you can find out the tag in "</ head >".==
 
 ![theme](/tag.jpg  "tag")
 
