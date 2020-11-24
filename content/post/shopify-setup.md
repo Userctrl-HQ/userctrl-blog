@@ -1,6 +1,6 @@
 +++
 author = "Userctrl HQ"
-title = "Userctrl setup with Shopify"
+title = "How to Increase your Shopify Store Conversions with userctrl"
 date = "2020-11-24"
 description = "A brief description of how to setup your Shopify store wth userctrl"
 tags = [
@@ -19,4 +19,4 @@ Hotjar app is the solution for any online sellers to collect the data and insigh
 
 This object Hotjar Shopify tool: How to increase your Shopify store conversions will help you increase conversions as well as customer’s satisfaction by using Hotjar for your Shopify page so that it is easy to boost the sales. With this free Hotjar Shopify tool, Shopify store owners have the best Shopify apps to deal with about 100 shipments a day.
 
-<somebbob@example.com>
+
