@@ -2,7 +2,7 @@ theme = "black-and-light"
 relativeURLs = true
 baseURL = "/"
 title = "Automated Marketing for Shopify Stores"
-author = "Steve Francia"
+author = "Userctrl HQ"
 copyright = "Copyright © 2020, Userctrl HQ; all rights reserved."
 paginate = 3
 languageCode = "en"
@@ -25,7 +25,7 @@ enableInlineShortcodes = true
     identifier = "userctrl.com"
     name = "userctrl.com"
     url = "https://www.userctrl.com"
-    weight = 10
+    weight = 20
 
 
 [taxonomies]
