@@ -1,11 +1,13 @@
 +++
-author = "Hugo Authors"
-title = "Rich Content"
-date = "2019-03-10"
-description = "A brief description of Hugo Shortcodes"
+author = "Userctrl HQ"
+title = "Userctrl setup with Shopify"
+date = "2020-11-24"
+description = "A brief description of how to setup your Shopify store wth userctrl"
 tags = [
-    "shortcodes",
-    "privacy",
+    "shopify",
+    "userctrl",
+    "conversational marketing",
+    "userctrl HQ",
 ]
 +++
 
