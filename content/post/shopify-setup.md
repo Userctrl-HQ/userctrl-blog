@@ -17,19 +17,18 @@ This might sound simple and straightforward BUT, it's not. Shopify, the awesome 
 
 Userctrl aims to fill in those gaps.
 
-
 * What is userctrl?
 * Why should you use userctrl with your Shopify store?
 * How to install userctrl in your Shopify store?
-    * Install userctrl with your Shopify theme
-* How to increase your Shopify store conversion rate with userctrl?
+    * Install  userctrl with your store theme.
+* How to increase your Shopify store coversion rate with userctrl?
 * Top FAQ about userctrl
-      * Can I use userctrl on a Shopify checkout page?
-      2. How does userctrl comply with GDPR, privacy and other regulations?
-      3. Will userctrl slow down my Shopify store?
+    * Can I use userctrl on a Shopify checkout page?
+    * How does userctrl comply with GDPR, privacy and other regulations?
+    * Will userctrl slow down my Shopify store?
 * Conclusion
 
-
+***
 
 
 **What is userctrl?**
