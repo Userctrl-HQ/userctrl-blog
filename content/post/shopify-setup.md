@@ -78,7 +78,7 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 
 **Step 5**: Find </head> tag
 
-==After scrolling down the page, you can find out the tag in </ head >.==
+==After scrolling down the page, you can find out the tag in </ head >==
 
 ![theme](/tag.jpg  "tag")
 
