@@ -91,6 +91,9 @@ Before the closing </ head> tag, let’s paste the userctrl code snippet. You ca
 Tab Save and Publish your Theme to add the changes.
 
 
+**How to increase your Shopify store coversion rate with Userctrl?**
+
+
 
 
 
