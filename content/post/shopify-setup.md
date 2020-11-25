@@ -20,6 +20,7 @@ Userctrl aims to fill in those gaps.
 
 ***
 
+**Table of content**
 
 * What is Userctrl?
 * Why should you use Userctrl with your Shopify store?
