@@ -94,7 +94,28 @@ Tab Save and Publish your Theme to add the changes.
 
 **How to increase your Shopify store coversion rate with Userctrl?**
 
+After going through steps 1 - 7, in your userctrl.com dashboard and create visitor journey for your website. 
+
+What is a user journey? 
+
+A user journey is a set of related actions a visitor will make while moving through your website to a desired ' purchasing a product, clicking 'add to cart', signing up for a service, filling out a form, or clicking on a link" goal. You can then add a set of discounts/offers/upsells and cross-sells that will be displayed to the visitor whenever they take any of the targeted actions, thereby greatly inreasing your conversion rate.
 
 
+**Top FAQ about Userctrl**
+
+*  Can I use Userctrl on a Shopify checkout page?
+    - No. Shopify policies do not permit 3rd party javascript in their checkout, this means userctrl may not follow the checkout pages.
+    
+* How does Userctrl comply with GDPR, privacy and other regulations?
+    - Userctrl does not track or gather any personally identifiable information of your visitors.
+    
+* Will Userctrl slow down my Shopify store?
+    - No. The userctrl tracking script is a light weight tracking script that will only be loaded when your store has finished downloaded. So it has no impact on speed.
+    
+    
+**Conclusion**
+With this article, its hoped that Shopify store owners now have a better understanding of how to increase the conversion rate of their stores using Userctrl.
+    
+    
 
 
