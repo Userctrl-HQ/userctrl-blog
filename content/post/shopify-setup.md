@@ -103,12 +103,10 @@ A user journey is a set of related actions a visitor will make while moving thro
 
 **Top FAQ about Userctrl**
 
-*  Can I use Userctrl on a Shopify checkout page?
-    - No. Shopify policies do not permit 3rd party javascript in their checkout, this means userctrl may not follow the checkout pages.
-    
+* Can I use Userctrl on a Shopify checkout page?
+    - No. Shopify policies do not permit 3rd party javascript in their checkout, this means userctrl may not follow the checkout pages.    
 * How does Userctrl comply with GDPR, privacy and other regulations?
-    - Userctrl does not track or gather any personally identifiable information of your visitors.
-    
+    - Userctrl does not track or gather any personally identifiable information of your visitors.    
 * Will Userctrl slow down my Shopify store?
     - No. The userctrl tracking script is a light weight tracking script that will only be loaded when your store has finished downloaded. So it has no impact on speed.
     
