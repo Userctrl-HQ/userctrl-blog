@@ -82,5 +82,15 @@ You’ll be able to track what your target audience is doing on your Shopify sto
 
 ![theme](/tag.jpg  "tag")
 
+**Step 6**:  Paste userctrl code snippet
+
+Before the closing </ head> tag, let’s paste the userctrl code snippet. You can get this code snippet from your userctrl.com dashboard.
+
+**Step 7**: Publish the theme
+
+Tab Save and Publish your Theme to add the changes.
+
+
+
 
 
